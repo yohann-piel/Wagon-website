@@ -1,0 +1,9 @@
+.banner {
+  font-family: Noto serif display;
+  background-image: url(../../images/bloc1.jpg);   
+  background-size: cover;
+  padding: 200px 0px;
+  color: FF7F3F;
+  text-align: center;
+  font-size: xx-large;
+ }
